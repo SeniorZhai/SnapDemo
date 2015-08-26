@@ -1,0 +1,6 @@
+framework module Pods_SnapDemo {
+  umbrella header "Pods-SnapDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
